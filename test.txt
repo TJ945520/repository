@@ -1,3 +1,5 @@
 第一次使用GitHub并且push
 准备clone
 ssh免密登录
+1234567890
+
